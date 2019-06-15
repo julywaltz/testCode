@@ -4,10 +4,10 @@
 @Author: Julywaltz
 @Date: 2019-06-15 14:42:15
 @LastEditors: Julywaltz
-@LastEditTime: 2019-06-15 14:42:15
+@LastEditTime: 2019-06-15 14:47:17
 @Version: $Id$
 '''
-#生成完全数
+
 from math import sqrt
 primes = []
 for num in range(1, 10000):

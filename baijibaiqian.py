@@ -4,10 +4,10 @@
 @Author: Julywaltz
 @Date: 2019-06-15 14:43:03
 @LastEditors: Julywaltz
-@LastEditTime: 2019-06-15 14:43:04
+@LastEditTime: 2019-06-15 14:47:00
 @Version: $Id$
 '''
-#百钱百鸡问题
+
 ans = []
 for cock in range(0, 100):
     for hen in range(0, 100):
