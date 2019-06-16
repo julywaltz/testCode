@@ -1,2 +1,2 @@
 # testCode
-Exercise
+python练习
