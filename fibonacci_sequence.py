@@ -10,15 +10,15 @@
 
 
 def f_num():
-    '''
-    生成斐波那契数列
-    '''
-    a = 0
-    b = 1
-    for _ in range(20):
-        (b, a) = (a, a + b)
-        print(a, end=' ')
+  '''
+  生成斐波那契数列
+  '''
+  a = 0
+  b = 1
+  for _ in range(20):
+    (b, a) = (a, a + b)
+    print(a, end=' ')
 
 
 if __name__ == "__main__":
-    f_num()
+  f_num()
