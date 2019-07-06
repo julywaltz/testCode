@@ -4,12 +4,12 @@
 # @Author: Cheng Yili
 # @Date: 2019-06-26 22:43:17
 # @LastEditors: Cheng Yili
-# @LastEditTime: 2019-06-26 23:52:47
+# @LastEditTime: 2019-07-06 22:20:11
 # @Email: julywaltz77@hotmail.com
 
 from urllib.request import urlopen, Request
 
-url = 'http://www.bing.com'
+url = 'https://dianying.taobao.com/index.htm'
 ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0'
 
 req = Request(url, headers={'User-agent': ua})
